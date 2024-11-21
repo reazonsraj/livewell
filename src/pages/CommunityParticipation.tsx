@@ -1,6 +1,8 @@
 import React from 'react';
 import { ArrowRight } from 'lucide-react';
 
+
+
 const CommunityParticipation = () => {
   return (
     <div className="pt-16">

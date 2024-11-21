@@ -53,7 +53,7 @@ ${formData.message}
                 <Phone className="h-6 w-6 text-blue-600 mr-4" />
                 <div>
                   <h4 className="font-semibold mb-1">Phone</h4>
-                  <p className="text-gray-600">+1 (555) 123-4567</p>
+                  <p className="text-gray-600">0408116985</p>
                 </div>
               </div>
               <div className="flex items-center mb-8">
@@ -67,7 +67,7 @@ ${formData.message}
                 <MapPin className="h-6 w-6 text-blue-600 mr-4" />
                 <div>
                   <h4 className="font-semibold mb-1">Location</h4>
-                  <p className="text-gray-600">123 Care Street, Health City, HC 12345</p>
+                  <p className="text-gray-600">Follington Street Zuccoli, Darwin, NT, 0832</p>
                 </div>
               </div>
             </div>
