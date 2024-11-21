@@ -78,7 +78,7 @@ export const Navbar = () => {
           <div className="flex items-center justify-between h-16">
             <div className="flex-shrink-0">
               <RouterLink to="/" className={`font-bold text-xl ${isScrolled ? 'text-teal-800' : 'text-white'}`}>
-                LiveWell Care And Support
+                Live Well Care And Support
               </RouterLink>
             </div>
 
